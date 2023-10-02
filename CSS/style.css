@@ -190,7 +190,7 @@ a {
 }
 
 .bottom {
-    width: calc(100% /12 *8);
+    width: calc(100% /12 *6);
     height: 100px;
     background-color: aqua;
     margin: auto;
